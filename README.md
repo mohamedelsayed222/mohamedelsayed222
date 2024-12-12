@@ -7,7 +7,7 @@
 
 - 👨‍💻 **Fresh Graduate fom faculty of Computers and Information ZU.**
   <br>
-- 💬 **Skills: OOP, Algorithms, Frontend Development, Database Fundementals, Backend Web Development, REST API, Problem Solving, SDLC, Git&GitHub and more.**
+- 💬 **Skills: OOP, Algorithms, Frontend Development Basics, Database Fundementals, Backend Development, REST API, Problem Solving, SDLC, Git&GitHub and more.**
   <br>
   
 <br><br>
