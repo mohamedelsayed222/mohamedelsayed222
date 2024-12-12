@@ -5,7 +5,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=EEC7E1&center=true&vCenter=true&random=false&width=435&lines=Back-end+Devloper+.;Always+learn+new+things+!" alt="Typing SVG" /></a>
 </p>
 
-- 👨‍💻 **Fresh Graduate fom faculty of Computers and Information ZU.**
+- 👨‍💻 **Fresh Graduate from faculty of Computers and Information ZU.**
   <br>
 - 💬 **Skills: OOP, Algorithms, Frontend Development Basics, Database Fundementals, Backend Development, REST API, Problem Solving, SDLC, Git&GitHub and more.**
   <br>
